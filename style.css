@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+ }
+.list {
+    border: 2px solid black;
+
+    width: 93%;
+    height: 10%;
+    float: right;
+    background-color: #1c1c1b;
+}
+
+.letter {
+    border: 2px solid black;
+    width: 7%;
+    height: 10%;
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.letter.s {
+    background-color: #ed6161;
+}
+
+.letter.a {
+    background-color: #f5a647;
+}
+
+.letter.b {
+    background-color: #eddc6d;
+}
+
+.letter.c {
+    background-color: #a5ed74;
+}
+
+.letter.d {
+    background-color: #58cded;
+}
+
+.letter.e {
+    background-color: #7841d1;
+}
+
+.letter.f {
+    background-color: #e652eb;
+}
+
+.deposit {
+    border: 2px solid black;
+    left: 0;
+    height: 23%;
+}
